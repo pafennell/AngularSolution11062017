@@ -1,0 +1,48 @@
+﻿search
+<div>
+    <table>
+        <tr>
+            <td>
+                <input #textbox type="text" [(ngModel)]="searchString">
+                <button (click)="search(searchString)">Search</button>
+
+            </td>
+        </tr>
+
+        <tr *ngIf="person">
+            <td>
+               
+                <table>
+                    <tr>
+                        <td>{{ person.FirstName }}</td>
+                    </tr>
+                    <tr>
+                        <td>{{ person.LastName }}</td>
+                    </tr>
+                    <tr>
+                        <td>{{ person.Email }}</td>
+                    </tr>
+                    <tr>
+                        <td>{{ person.Address }}</td>
+                    </tr>
+                    <tr>
+                        <td>{{ person.City }}</td>
+                    </tr>
+                    <tr>
+                        <td>{{ person.County }}</td>
+                    </tr>
+                    <tr>
+                        <td>{{ person.PersonID }}</td>
+                    </tr>
+                    <tr>
+                        <td>{{ person.State }}</td>
+                    </tr>
+                    <tr>
+                        <td>{{ person.Zip }}</td>
+                    </tr>
+
+     
+</table>
+            </td></tr>
+    </table>
+</div>

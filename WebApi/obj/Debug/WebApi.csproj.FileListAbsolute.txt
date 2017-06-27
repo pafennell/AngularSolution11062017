@@ -1,0 +1,377 @@
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\ApplicationInsights.config
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\roslyn\csc.exe
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\roslyn\vbc.exe
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\WebApi.dll.config
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\WebApi.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\WebApi.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\DAL.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\EntityFramework.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Owin.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.Helpers.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.Http.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.Mvc.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.Optimization.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.Razor.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.WebPages.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\WebGrease.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\DAL.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.Helpers.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.Http.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.Mvc.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.Optimization.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.Razor.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.WebPages.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\EntityFramework.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\obj\Debug\WebApi.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\AngularQuickStart\WebApi\obj\Debug\WebApi.pdb
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\ApplicationInsights.config
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\roslyn\csc.exe
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\roslyn\vbc.exe
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\roslyn\VBCSCompiler.exe
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\WebApi.dll.config
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\WebApi.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\WebApi.pdb
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Antlr3.Runtime.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\DAL.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\EntityFramework.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\EntityFramework.SqlServer.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AI.Web.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Google.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Newtonsoft.Json.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Owin.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Net.Http.Formatting.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Helpers.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Http.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Http.Owin.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Http.WebHost.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Mvc.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Optimization.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Razor.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.WebPages.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\WebGrease.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\DAL.pdb
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AI.Web.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Newtonsoft.Json.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Net.Http.Formatting.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Helpers.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Http.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Http.WebHost.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Mvc.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Optimization.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Razor.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.WebPages.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Antlr3.Runtime.pdb
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\EntityFramework.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\EntityFramework.SqlServer.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Google.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Http.Owin.xml
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\obj\Debug\WebApi.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\obj\Debug\WebApi.pdb
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Cors.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Http.Cors.dll
+D:\Aungual_QuickStart\-AngularQuickStart\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\ApplicationInsights.config
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\roslyn\csc.exe
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\roslyn\vbc.exe
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\WebApi.dll.config
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\WebApi.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\WebApi.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\DAL.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\EntityFramework.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Owin.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Cors.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Helpers.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Http.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Mvc.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Optimization.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Razor.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.WebPages.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\WebGrease.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\DAL.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Helpers.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Http.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Mvc.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Optimization.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Razor.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.WebPages.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\EntityFramework.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\obj\Debug\WebApi.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\obj\Debug\WebApi.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular_QuickStart\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\ApplicationInsights.config
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\roslyn\csc.exe
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\roslyn\vbc.exe
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\roslyn\VBCSCompiler.exe
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\WebApi.dll.config
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\WebApi.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\WebApi.pdb
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Antlr3.Runtime.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\DAL.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\EntityFramework.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\EntityFramework.SqlServer.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AI.Web.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Security.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Security.Google.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Newtonsoft.Json.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Owin.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Net.Http.Formatting.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Cors.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Helpers.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Http.Cors.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Http.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Http.Owin.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Http.WebHost.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Mvc.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Optimization.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Razor.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.WebPages.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\WebGrease.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\DAL.pdb
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AI.Web.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Http.Cors.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Newtonsoft.Json.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Net.Http.Formatting.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Helpers.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Http.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Http.WebHost.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Mvc.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Optimization.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Razor.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.WebPages.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Antlr3.Runtime.pdb
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\EntityFramework.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\EntityFramework.SqlServer.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Security.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Security.Google.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\bin\System.Web.Http.Owin.xml
+D:\angularSolution11062017\AngularSolution11062017\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\angularSolution11062017\AngularSolution11062017\WebApi\obj\Debug\WebApi.dll
+D:\angularSolution11062017\AngularSolution11062017\WebApi\obj\Debug\WebApi.pdb

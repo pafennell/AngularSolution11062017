@@ -1,0 +1,12 @@
+﻿login
+<div>
+    <table>
+        <tr>
+           <td>
+               <input #textbox type="text" [(ngModel)]="username" required>
+               <input #textbox type="password" [(ngModel)]="password" required>
+               <button (click)="logIn(username, password)">Login</button>
+           </td>
+        </tr>
+    </table>
+</div>
