@@ -5,6 +5,8 @@ import { ContactComponent } from './contact/contact.component';
 import { LoginComponent } from './login/login.component';
 import { HomeComponent } from './home/home.component';
 import { PersonSearch } from './personSearch/personSearch.component';
+import { RegisterComponent } from './register/register.component';
+import { PersonEditComponent } from './personedit/personedit.component';
 
 const routes: Routes = [
     {
@@ -26,7 +28,15 @@ const routes: Routes = [
     {
         path: 'login',
         component: LoginComponent,
-    } 
+    },
+    {
+        path: 'register',
+        component: RegisterComponent,
+    },
+    {
+        path: 'personedit',
+        component: PersonEditComponent,
+    }
 ];
 
 @NgModule({

@@ -7,8 +7,8 @@
 -debug:full
 -nostdlib
 -nologo
-"D:\angularSolution11062017\AngularSolution11062017\src\AngularWeb\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"D:\angularSolution11062017\AngularSolution11062017\src\AngularWeb\bin\Debug\netcoreapp1.0\AngularWeb.dll"
+"C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular27062017\AngularSolution11062017\src\AngularWeb\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular27062017\AngularSolution11062017\src\AngularWeb\bin\Debug\netcoreapp1.0\AngularWeb.dll"
 -r:"C:\Users\patrick\.nuget\packages\Microsoft.AspNetCore.Authorization\1.1.2\lib\netstandard1.3\Microsoft.AspNetCore.Authorization.dll"
 -r:"C:\Users\patrick\.nuget\packages\Microsoft.AspNetCore.Diagnostics\1.1.2\lib\netstandard1.3\Microsoft.AspNetCore.Diagnostics.dll"
 -r:"C:\Users\patrick\.nuget\packages\Microsoft.AspNetCore.Diagnostics.Abstractions\1.1.2\lib\netstandard1.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll"
@@ -137,6 +137,6 @@
 -r:"C:\Users\patrick\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\patrick\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\patrick\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll"
--resource:"D:\angularSolution11062017\AngularSolution11062017\src\AngularWeb\obj\Debug\netcoreapp1.0\AngularWebdotnet-compile.deps.json",AngularWeb.deps.json
-"D:\angularSolution11062017\AngularSolution11062017\src\AngularWeb\Program.cs"
-"D:\angularSolution11062017\AngularSolution11062017\src\AngularWeb\Startup.cs"
+-resource:"C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular27062017\AngularSolution11062017\src\AngularWeb\obj\Debug\netcoreapp1.0\AngularWebdotnet-compile.deps.json",AngularWeb.deps.json
+"C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular27062017\AngularSolution11062017\src\AngularWeb\Program.cs"
+"C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular27062017\AngularSolution11062017\src\AngularWeb\Startup.cs"

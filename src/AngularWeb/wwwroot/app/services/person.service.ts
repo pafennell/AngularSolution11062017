@@ -19,8 +19,8 @@ export class PersonService {
     }
 
     addPerson(body: Person, options: Headers) {
-        return this.http.post('http://localhost:2744/api/Person', body, options) // ...using post request
-            .map((res: Response) => res.json()) // ...and calling .json() on the response to return data
+        return this.http.post('http://localhost:2744/api/Person/AddUser', body, options) // ...using post request
+            .map((res: Response) => <any>res.json()) // ...and calling .json() on the response to return data
             .catch((error: any) => Observable.throw(error.json().error || 'Server error')); //...errors if any
     }
 
@@ -28,5 +28,9 @@ export class PersonService {
         return this.http.get('http://localhost:2744/api/Person/Search/' + searchString).map((response: Response) => <any>response.json())
             .catch((error: any) => Observable.throw(error.json().error || 'Server error'));
     }
-    
+
+    searchByID(id: number) {
+        return this.http.get('http://localhost:2744/api/Person/SearchByID/' + id).map((response: Response) => <any>response.json())
+            .catch((error: any) => Observable.throw(error.json().error || 'Server error'));
+    }
 }

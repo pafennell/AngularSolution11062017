@@ -21,3 +21,8 @@ D:\angularSolution11062017\AngularSolution11062017\DAL\bin\Debug\DAL.dll
 D:\angularSolution11062017\AngularSolution11062017\DAL\bin\Debug\DAL.pdb
 D:\angularSolution11062017\AngularSolution11062017\DAL\obj\Debug\DAL.dll
 D:\angularSolution11062017\AngularSolution11062017\DAL\obj\Debug\DAL.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular27062017\AngularSolution11062017\DAL\bin\Debug\DAL.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular27062017\AngularSolution11062017\DAL\bin\Debug\DAL.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular27062017\AngularSolution11062017\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular27062017\AngularSolution11062017\DAL\obj\Debug\DAL.dll
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular27062017\AngularSolution11062017\DAL\obj\Debug\DAL.pdb

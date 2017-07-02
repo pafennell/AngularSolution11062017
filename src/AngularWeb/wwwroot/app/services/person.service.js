@@ -25,12 +25,16 @@ var PersonService = (function () {
             .catch(function (error) { return Rx_1.Observable.throw(error.json().error || 'Server error'); });
     };
     PersonService.prototype.addPerson = function (body, options) {
-        return this.http.post('http://localhost:2744/api/Person', body, options) // ...using post request
+        return this.http.post('http://localhost:2744/api/Person/AddUser', body, options) // ...using post request
             .map(function (res) { return res.json(); }) // ...and calling .json() on the response to return data
             .catch(function (error) { return Rx_1.Observable.throw(error.json().error || 'Server error'); }); //...errors if any
     };
     PersonService.prototype.search = function (searchString) {
         return this.http.get('http://localhost:2744/api/Person/Search/' + searchString).map(function (response) { return response.json(); })
+            .catch(function (error) { return Rx_1.Observable.throw(error.json().error || 'Server error'); });
+    };
+    PersonService.prototype.searchByID = function (id) {
+        return this.http.get('http://localhost:2744/api/Person/SearchByID/' + id).map(function (response) { return response.json(); })
             .catch(function (error) { return Rx_1.Observable.throw(error.json().error || 'Server error'); });
     };
     return PersonService;

@@ -18,6 +18,8 @@ var contact_component_1 = require("./contact/contact.component");
 var login_component_1 = require("./login/login.component");
 var home_component_1 = require("./home/home.component");
 var personSearch_component_1 = require("./personSearch/personSearch.component");
+var register_component_1 = require("./register/register.component");
+var personedit_component_1 = require("./personedit/personedit.component");
 var AppModule = (function () {
     function AppModule() {
     }
@@ -32,7 +34,9 @@ AppModule = __decorate([
             contact_component_1.ContactComponent,
             login_component_1.LoginComponent,
             home_component_1.HomeComponent,
-            personSearch_component_1.PersonSearch
+            personSearch_component_1.PersonSearch,
+            register_component_1.RegisterComponent,
+            personedit_component_1.PersonEditComponent
         ],
         bootstrap: [app_component_1.AppComponent]
     })

@@ -1,18 +1,30 @@
-﻿<h6>Contact List</h6>
-
-<div>
-    <table>
-        <tr *ngFor="let p of person">
-            <td>{{p.Address}}</td>
-            <td>{{p.City}}</td>
-            <td>{{p.County}}</td>
-            <td>{{p.Email}}</td>
-            <td>{{p.FirstName}}</td>
-            <td>{{p.LastName}}</td>
-            <td>{{p.PersonID}}</td>
-            <td>{{p.State}}</td>
-            <td>{{p.Zip}}</td>
-        </tr>
-    </table>
-
+﻿<div class="header">
+    <div class="col-md-offset-5">
+        <h3>Contact List</h3>
+    </div>
+</div>
+<div class="container col-md-12">
+    <div class="col-md-3">
+        <div class="leftColumn"></div>
+    </div>
+        <div class="col-md-6">
+            <div class="MainColumn">
+                <table>
+                    <tr *ngFor="let p of person">
+                        <td>{{p.Address}}</td>
+                        <td>{{p.City}}</td>
+                        <td>{{p.County}}</td>
+                        <td>{{p.Email}}</td>
+                        <td>{{p.FirstName}}</td>
+                        <td>{{p.LastName}}</td>
+                        <td>{{p.PersonID}}</td>
+                        <td>{{p.State}}</td>
+                        <td>{{p.Zip}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    <div class="col-md-3">
+        <div class="rightColumn"></div>
+    </div>
 </div>

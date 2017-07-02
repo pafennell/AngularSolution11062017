@@ -9,27 +9,33 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+var router_1 = require("@angular/router");
 var core_1 = require("@angular/core");
 var person_service_1 = require("../services/person.service");
-var ContactComponent = (function () {
-    function ContactComponent(service) {
+var PersonEditComponent = (function () {
+    function PersonEditComponent(service, activatedRoute) {
         this.service = service;
+        this.activatedRoute = activatedRoute;
     }
-    ContactComponent.prototype.ngOnInit = function () {
+    PersonEditComponent.prototype.ngOnInit = function () {
         var _this = this;
-        this.service.getPerson().subscribe(function (person) { return _this.person = person; }),
-            function () { return console.log("getAllItems() complete from init"); };
+        // subscribe to router event
+        this.activatedRoute.params.subscribe(function (params) {
+            var userId = params['id'];
+            _this.service.searchByID(userId).subscribe(function (person) { return _this.person = person; });
+            console.log(_this.person);
+        });
     };
-    return ContactComponent;
+    return PersonEditComponent;
 }());
-ContactComponent = __decorate([
+PersonEditComponent = __decorate([
     core_1.Component({
         moduleId: module.id,
-        selector: 'contact',
-        templateUrl: './contact.component.html',
+        selector: 'personedit',
+        templateUrl: './personedit.component.html',
         providers: [person_service_1.PersonService]
     }),
-    __metadata("design:paramtypes", [person_service_1.PersonService])
-], ContactComponent);
-exports.ContactComponent = ContactComponent;
-//# sourceMappingURL=contact.component.js.map
+    __metadata("design:paramtypes", [person_service_1.PersonService, router_1.ActivatedRoute])
+], PersonEditComponent);
+exports.PersonEditComponent = PersonEditComponent;
+//# sourceMappingURL=personedit.component.js.map

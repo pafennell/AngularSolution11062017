@@ -12,6 +12,8 @@ var contact_component_1 = require("./contact/contact.component");
 var login_component_1 = require("./login/login.component");
 var home_component_1 = require("./home/home.component");
 var personSearch_component_1 = require("./personSearch/personSearch.component");
+var register_component_1 = require("./register/register.component");
+var personedit_component_1 = require("./personedit/personedit.component");
 var routes = [
     {
         path: '',
@@ -32,6 +34,14 @@ var routes = [
     {
         path: 'login',
         component: login_component_1.LoginComponent,
+    },
+    {
+        path: 'register',
+        component: register_component_1.RegisterComponent,
+    },
+    {
+        path: 'personedit',
+        component: personedit_component_1.PersonEditComponent,
     }
 ];
 var AppRoutingModule = (function () {

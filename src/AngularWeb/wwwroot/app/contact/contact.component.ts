@@ -19,12 +19,6 @@ export class ContactComponent {
         this.service.getPerson().subscribe(person => this.person = person),
             () => console.log("getAllItems() complete from init");
     }
-
-    addContact(person: Person) {
-
-        this.service.addPerson(person, new Headers({ 'Content-Type': 'application/json' }));
-    }
-
 }
 
 

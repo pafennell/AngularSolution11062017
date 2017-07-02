@@ -1,5 +1,5 @@
---temp-output:D:\angularSolution11062017\AngularSolution11062017\src\AngularWeb\obj\Debug\netcoreapp1.0\
---out:D:\angularSolution11062017\AngularSolution11062017\src\AngularWeb\bin\Debug\netcoreapp1.0\AngularWeb.dll
+--temp-output:C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular27062017\AngularSolution11062017\src\AngularWeb\obj\Debug\netcoreapp1.0\
+--out:C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular27062017\AngularSolution11062017\src\AngularWeb\bin\Debug\netcoreapp1.0\AngularWeb.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -141,6 +141,6 @@
 --reference:C:\Users\patrick\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\patrick\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\patrick\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"D:\angularSolution11062017\AngularSolution11062017\src\AngularWeb\obj\Debug\netcoreapp1.0\AngularWebdotnet-compile.deps.json",AngularWeb.deps.json
-D:\angularSolution11062017\AngularSolution11062017\src\AngularWeb\Program.cs
-D:\angularSolution11062017\AngularSolution11062017\src\AngularWeb\Startup.cs
+--resource:"C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular27062017\AngularSolution11062017\src\AngularWeb\obj\Debug\netcoreapp1.0\AngularWebdotnet-compile.deps.json",AngularWeb.deps.json
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular27062017\AngularSolution11062017\src\AngularWeb\Program.cs
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Angular27062017\AngularSolution11062017\src\AngularWeb\Startup.cs

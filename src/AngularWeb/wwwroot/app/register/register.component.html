@@ -1,0 +1,72 @@
+﻿<div>
+    <div class="col-md-3">
+        <div class="leftColumn"></div>
+    </div>
+    <div class="col-md-6">
+        <div class="MainColumn">
+            <table>
+                <tr>
+                    <td>
+                        Firstname: <input type="text" [(ngModel)]="firstname">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Lastname: <input type="text" [(ngModel)]="lastname">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Address: <input type="text" [(ngModel)]="address">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Email: <input type="text" [(ngModel)]="email">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        State: <input type="text" [(ngModel)]="state">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Zip: <input type="text" [(ngModel)]="zip">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        County: <input type="text" [(ngModel)]="county">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        City: <input type="text" [(ngModel)]="city">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button (click)="addContact(firstname,lastname,address,email,state,city,county,zip)">Submit</button>
+                    </td>
+                </tr>
+
+                <tr *ngIf="id">
+                    <td>
+                        <table>
+                            <tr>
+                                <td>{{ id }}</td>
+                                <td>
+                                    <a [routerLink]="['/personedit', {id: id}]">Edit</a>
+                                </td>
+                            </tr>
+                        </table> 
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="rightColumn"></div>
+    </div>
+</div>
